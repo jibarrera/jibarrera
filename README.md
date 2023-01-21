@@ -1,4 +1,4 @@
-### 👋 Hola! Un gusto en saludarte!  Mi nombre es Jose Iván Barrera.
+### 👋 Hola! Gracias por entrar en mi perfil!  Mi nombre es Jose Iván Barrera.
 
 <!--
 **jibarrera/jibarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
