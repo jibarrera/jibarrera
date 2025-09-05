@@ -24,4 +24,42 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jibarrera&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+# 👋🏼 Hola a todos! Soy Lautaro  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-5BC0EB?style=for-the-badge&logo=react&logoColor=1746C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-CB218F?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-FF6F61?style=for-the-badge&logo=storybook&logoColor=white)
+
+
+## Soy **Frontend Developer** 
+Con conocimientos en **React, JavaScript y TypeScript.**
+Me apasiona crear interfaces limpias, funcionales y con una experiencia de usuario intuitiva.  
+Disfruto cuidar los detalles visuales y de usabilidad, asegurando que cada proyecto sea accesible, responsive y fácil de utilizar, sin perder de vista las buenas prácticas de desarrollo.
+  
+## 🌟 Además de lo técnico, valoro y disfruto mucho el trabajo en equipo.  
+Me destaco por mis habilidades de comunicación, adaptabilidad y resolución de problemas,  
+lo que me permite aprender rápido y aportar en entornos colaborativos.  
+También me gusta ayudar y compartir mis conocimientos cuando la situación lo requiere.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-Zarate&layout=compact&theme=tokyonight)
+
+
+## 🤖 Además, me interesa mucho la **Inteligencia Artificial** y cómo funciona.  
+Es un tema que me gustaría **profundizar a futuro**, una vez que me especialice por completo en el frontend,  
+explorando cómo se crean modelos, cómo aprenden y cómo pueden aplicarse en proyectos reales.  
+Siempre buscando aprender y aplicar nuevas tecnologías en proyectos reales.
+
+<img src="image-me.png" alt="Foto perfil" width="300" height="300"/>   
+
+📫 Puedes encontrarme en 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5BC0EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-zaraterivas/)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
