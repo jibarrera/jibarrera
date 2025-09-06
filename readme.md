@@ -2,7 +2,7 @@
 # 👋🏼 Hola a todos! Soy José, gracias por entrar a mi perfil.
 
 
-<img width="1050" height="600" alt="Portfolio-Jose" src="https://github.com/user-attachments/assets/b0cd3ff6-e8da-48c8-bd1b-51e581690b6d" />
+<img width="1050" height="600" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (2)" src="https://github.com/user-attachments/assets/ebe82fe6-365d-4bb7-823a-081d618ad711" />
 
 
 #  💻 Mis habilidades técnicas:
