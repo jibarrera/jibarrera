@@ -2,7 +2,7 @@
 # 👋🏼 Hola a todos! Soy José, gracias por entrar a mi perfil.
 
 
-<img width="1000" height="400" alt="flyer-Jose" src="https://github.com/user-attachments/assets/22d9da60-2cec-42c6-b594-9ba29568220e" />
+<img width="800" height="400" alt="flyer-Jose" src="https://github.com/user-attachments/assets/22d9da60-2cec-42c6-b594-9ba29568220e" />
 
 
 #  💻 Mis habilidades técnicas:
