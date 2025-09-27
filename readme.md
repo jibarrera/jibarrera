@@ -1,10 +1,15 @@
 
-# 👋🏼 Hola a todos! Soy José, gracias por entrar a mi perfil,
-
 <h3 align="center">
   Hi, I'm José Iván Barrera
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+
+<p align="center">
+
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Soy+Jos%C3%A9+Iv%C3%A1n+Barrera+;Analista+de+Sistemas;Frontend+Developer;y+apasionado+por+el+Desarrollo+Web" alt="Typing SVG" /></a>
+
+</p>
 
 
 
