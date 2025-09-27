@@ -1,7 +1,7 @@
 
 # 👋🏼 Hola a todos! Soy José, gracias por entrar a mi perfil,
 
-<img width="800" height="600" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (4)" src="https://github.com/user-attachments/assets/0ce7efed-6835-42ff-baca-3865bbc4da22" />
+<img width="300" height="300" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (4)" src="https://github.com/user-attachments/assets/0ce7efed-6835-42ff-baca-3865bbc4da22" />
 
 
 
