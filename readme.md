@@ -9,27 +9,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&duration=2000&center=true&vCenter=true&width=600&height=100&lines=Analista+de+Sistemas++;+Front-End+Developer;Apasionado+por+el+Desarrollo+Web"></a>
 </p>
 
-#
+---
 
 
+### 💫 Un poco sobre mí: 
 
+Hola! Cómo estás? Gracias por entra en mi perfil !
 
+Te cuento que tengo 37 años y resido en la provincia de Buenos Aires. Soy Analista de Sistemas graduado en el año 2021. Me consideró un apasionado por el Desarrollo Web y con muchas ganasde seguir aprendiendo, formandome y desafiandome en cada proyecto.Me motiva y disfruto transformar ideas en realidades digitales que ayuden a personas y negocios a crecer.
 
+ Apasionado por el **desarrollo web** y con muchas ganas de seguir aprendiendo y desafiándome en cada proyecto 🚀.  
+Me motiva transformar ideas en realidades digitales que ayuden a las personas y negocios a crecer 🌱.  
 
-
-
-
-
-# # 💻 Mis habilidades técnicas:
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-
-#
-
-
-
-# 💫 Un poco sobre mí: 
-👨‍💻 Sobre mí<br><br>¡Hola! Soy Jose Ivan Barrera, desarrollador web de Argentina con 37 años y una gran pasión por la tecnología. Me considero una persona curiosa, con muchas ganas de aprender, crecer y desafiarme en cada proyecto que se presente.
 
 <img width="300" height="300" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (4)" src="https://github.com/user-attachments/assets/0ce7efed-6835-42ff-baca-3865bbc4da22" />
 
