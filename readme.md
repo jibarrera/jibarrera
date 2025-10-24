@@ -44,7 +44,7 @@ Disfruto cuidar los detalles visuales y de usabilidad, asegurando que cada proye
 ## 🌟 Además de lo técnico, valoro y disfruto mucho el trabajo en equipo.  
 Me destaco por mis habilidades de comunicación, adaptabilidad y resolución de problemas,  
 lo que me permite aprender rápido y aportar en entornos colaborativos.  
-También me gusta ayudar y compartir mis conocimientos cuando la situación lo requiere.
+También me gusta ayudar y compartir mis conocimientos cuando la situación lo requiere.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-Zarate&layout=compact&theme=tokyonight)
 
