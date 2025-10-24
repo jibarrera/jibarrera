@@ -20,7 +20,7 @@
 
 Hola! Cómo estás? Gracias por entra en mi perfil !
 
-Te cuento que tengo 37 años y resido en la provincia de Buenos Aires. Soy Analista de Sistemas graduado en el año 2021. Me consideró un apasionado por el Desarrollo Web y con muchas ganasde seguir aprendiendo, formandome y desafiandome en cada proyecto 🚀..Me motiva y disfruto transformar ideas en realidades digitales que ayuden a personas y negocios a crecer 🌱.
+Te cuento que tengo 37 años y resido en la provincia de Buenos Aires. Soy Analista de Sistemas graduado en el año 2021. Me consideró un apasionado por el Desarrollo Web y con muchas ganasde seguir aprendiendo, formandome y desafiandome en cada proyecto 🚀.Me motiva y disfruto transformar ideas en realidades digitales que ayuden a personas y negocios a crecer 🌱.
 
  Apasionado por el **desarrollo web** y con muchas ganas de seguir aprendiendo y desafiándome en cada proyecto 🚀.  
 Me motiva transformar ideas en realidades digitales que ayuden a las personas y negocios a crecer 🌱.  
