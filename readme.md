@@ -26,7 +26,7 @@ Te cuento que tengo 37 años y resido en la provincia de Buenos Aires. Soy Anali
 Me motiva transformar ideas en realidades digitales que ayuden a las personas y negocios a crecer 🌱.  
 
 
-<img width="300" height="300" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (4)" src="https://github.com/user-attachments/assets/0ce7efed-6835-42ff-baca-3865bbc4da22" />
+<img align="left" width="600" height="300" background-color="red" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (4)" src="https://github.com/user-attachments/assets/0ce7efed-6835-42ff-baca-3865bbc4da22" />
 
 <br><br>Disfruto construir soluciones digitales que no solo funcionen bien, sino que también aporten valor real a las personas y a los negocios. Tengo experiencia en el desarrollo web y estoy en constante formación para mantenerme actualizado con las últimas tendencias y herramientas del sector.<br><br>🔹 Qué me define:<br><br>Actitud proactiva y compromiso con la mejora continua.<br><br>Adaptabilidad para trabajar en distintos entornos y proyectos.<br><br>Ganas de seguir aprendiendo y enfrentar nuevos desafíos.<br><br>Estoy convencido de que la tecnología puede transformar ideas en realidades y me motiva ser parte de ese cambio. 🚀
 
