@@ -24,9 +24,6 @@ Hola! Cómo estás? Gracias por entra en mi perfil!
 
 Te cuento que tengo 37 años y resido en la provincia de Buenos Aires. Soy Analista de Sistemas graduado en el año 2021. Me consideró un apasionado por el **Desarrollo Web** y con muchas ganasde seguir aprendiendo, formandome y desafiandome en cada proyecto 🚀.Me motiva y disfruto transformar ideas en realidades digitales que ayuden a personas y negocios a crecer 🌱.
 
-
-<img align="left" width="1000" height="400" alt="Tarjeta de Visita Negro y Amarillo Ilustrado Diseñador Web (4)" src="https://github.com/user-attachments/assets/0ce7efed-6835-42ff-baca-3865bbc4da22" />
-
 <br><br>Disfruto construir soluciones digitales que no solo funcionen bien, sino que también aporten valor real a las personas y a los negocios. Tengo experiencia en el desarrollo web y estoy en constante formación para mantenerme actualizado con las últimas tendencias y herramientas del sector.<br><br>🔹 Qué me define:<br><br>🔹Actitud proactiva y compromiso con la mejora continua.<br><br>🔹Adaptabilidad para trabajar en distintos entornos y proyectos.<br><br>🔹Ganas de seguir aprendiendo y enfrentar nuevos desafíos.<br><br>🔹Estoy convencido de que la tecnología puede transformar ideas en realidades y me motiva ser parte de ese cambio. 
 
 <br>
